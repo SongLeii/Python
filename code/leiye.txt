@@ -1,0 +1,3 @@
+#####
+git is a version management control 
+My repositroy named leiye 
