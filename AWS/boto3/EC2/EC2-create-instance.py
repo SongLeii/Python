@@ -2,7 +2,7 @@
 import boto3
 #####session
 ec2 = boto3.resource('ec2')
-subnet = ec2.Subnet('subnet-9f050ad9')
+subnet = ec2.Subnet('subnet-27000f61')
 
 
 ######设置参数
@@ -33,8 +33,8 @@ request = subnet.create_instances(
 #    ],
 #    KernelId='string',
     KeyName='Lei-Pro',
-    MaxCount=2,
-    MinCount=2,
+    MaxCount=1,
+    MinCount=1,
     Monitoring={
         'Enabled': False
     },
