@@ -3,9 +3,10 @@ import boto3
 #####session
 ec2 = boto3.resource('ec2')
 subnet = ec2.Subnet('subnet-27000f61')
-
+print(help(boto3.client))
 
 ######设置参数
+'''
 request = subnet.create_instances(
     BlockDeviceMappings=[
         {
@@ -105,3 +106,4 @@ request = subnet.create_instances(
 )
 #######发出请求
 print(request)
+'''
