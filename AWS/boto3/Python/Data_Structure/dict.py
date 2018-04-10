@@ -2,6 +2,9 @@
 #####字典：字典的key必须是可hash对象，且唯一，value可以是任何元素
 ####字典是可变对象,蛋没有切片操作
 d = {'songlei':1,'wangye':2}
+d1 = dict()
+d1.update([(1,'songlei'),(2,'wangye')])
+print(d1)
 d['song'] = 100###通过key 修改value，如果没有该key，直接添加到字典内
 d.update({'songzt':3})###可以接手字典参数
 d.update([('ssl',4),('zzz',5)]) #####可以接收两元素的元祖，多出两个元素就不行了

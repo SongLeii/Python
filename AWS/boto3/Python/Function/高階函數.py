@@ -8,6 +8,7 @@ def compare(a,b):
     if a['age'] < b['age']:
         return -1
 #########排序函數：
+
 lst = [3,1,45,6,23,15,8,6]
 print(len(lst))
 def sort():
@@ -74,7 +75,7 @@ print(inc(),get(),dec(),get())
 def lei(init):
     ye = init
     def leiye():
-        #ye += 1 ####此操作是进行变量的修改，python将ye这个变量看做成局部变量了，但由于作用域的问题，是不允许进行局部变量修改的
+        #ye += 1 ####此操作是进行变量的修改，python将ye这个变量看做本地部变量了，但由于作用域的问题，ye这个变量没有定义
         #如果直接 ye = 1 这个操作相当于在此函数中声明一个本地变量，这种操作在本地作用域中是可以的
         nonlocal ye #####將变量ye声明为不是本地变量
         ye += 1      #####变量ye 就可以进行修改
@@ -92,5 +93,5 @@ new = partial(int,base=16)###將函数的参数固定，
 print(new('0x1344'))###直接调用赋值函数即可
 ####partial函数一般用于 ssh 修改端口等函数，将ssh端口改掉成其他端口后，不用每次都进行传递port参数
 
-myssh = partial(ssh,port=10001)
-myssh(host='')
+#myssh = partial(ssh,port=10001)
+#myssh(host='')

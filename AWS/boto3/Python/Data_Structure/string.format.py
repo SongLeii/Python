@@ -3,7 +3,7 @@ print('my name is {},my age is {}'.format('songlei',30))
 print('my lover is {name} and my name is {my}'.format(name='Ye',my='SongLei'))
 ####大括号中指定了元素，需要在format方法中用key=value方式表达
 print('my name is {1[0]} and my wife is {3}'.format('lei',['a','b'],'song','wang'))
-####可以传递任何类型的参数
+####可以传递任何类型的参数,利用位置参数进行传递，format中的参数相当于一个元组
 print('{1} or {2} and {name}'.format(0,'aliyun','AWS',name='lei'))
 class A:
     def __init__(lei):
