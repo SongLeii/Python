@@ -1,0 +1,128 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+103.126.126.119   zjnbsb.zrzftest.ccbft.com
+223.75.71.173 xffp.zgshfp.com.cn
+58.49.34.162	blj-1255000317.iss.com
+42.201.64.69	blj-1255000145.iss.com
+42.201.64.88    blj-1255000185.iss.com
+42.201.65.224	blj-dq-1255000172.iss.com
+42.201.64.114	blj-1255000172-zrzf.iss.com
+42.201.64.154	blj-1255000126-ypzs.iss.com
+42.201.64.87	blj-1255000145-1.iss.com
+11.152.160.120	zh_srv1
+11.152.160.122	zh_srv2
+11.168.214.245	ccbft_srv1		mail1.fintech.jh
+11.168.214.246	ccbft_srv2		mail2.fintech.jh
+11.168.214.243	ccbft_qzsrv1	mailqz1.fintech.jh
+11.168.214.244	ccbft_qzsrv2	mailqz2.fintech.jh
+11.168.214.251	oa.fintech.jh
+11.168.214.252	au.fintech.jh
+11.168.214.254	gd.fintech.jh
+240e:604:106:2:5::201   wx.dangqun.ccb.com
+223.75.71.12  ynzgh.org.cn
+103.126.126.119    testlb1.ccb.com
+42.201.64.49   blj-1255000306.iss.com
+58.49.34.162   blj-1255000317.iss.com
+42.201.64.93   blj-1255000199.iss.com
+42.201.64.86   blj-1255000198.iss.com
+42.201.64.79   blj-1255000333.iss.com
+42.201.64.70   blj-1255000226.iss.com
+42.201.64.69   blj-1255000145.iss.com
+42.201.64.69   blj-1255000145-jz.iss.com
+42.201.64.87   blj-1255000145-1.iss.com
+42.201.64.75   blj-1255000362.iss.com
+42.201.64.79		blj-1255000333.iss.com			#大政务生态	
+42.201.64.69        blj-1255000145.iss.com	        #云南政务	
+42.201.64.87        blj-1255000145-1.iss.com        #云岭工会	
+42.201.64.86        blj-1255000198.iss.com	        #安康政务	
+42.201.64.93        blj-1255000199.iss.com	        #辽宁政务		
+42.201.64.70        blj-1255000226.iss.com	        #重庆积分	
+42.201.64.74        blj-1255000366.iss.com	        #广东房产	
+42.201.64.75        blj-1255000362.iss.com	        #河北房产	
+42.201.64.103       blj-1255000368.iss.com	        #消费扶贫	
+42.201.64.199       blj-1255000318.iss.com	        #渠道管控	
+42.201.64.105       blj-1255000279.iss.com	        #山东政务	
+42.201.64.112       blj-1255000244.iss.com	        #山西政务	
+42.201.64.230       blj-1255000408.iss.com	        #黄山政务	
+42.201.64.78        blj-1255000173.iss.com	        #安阳政务2.0
+42.201.64.78        blj-125500017301.iss.com        #安阳政务1.0
+42.201.64.95        blj-1255000200.iss.com	        #雄安政务	
+42.201.64.88        blj-1255000185.iss.com	        #银保监会	
+42.201.64.76        blj-1255000201.iss.com	        #北京政务	
+42.201.64.80        bli-1255000373.iss.com	        #工商联
+42.201.64.114       blj-1255000172-zrzf.iss.com     #政融支付
+42.201.65.224       blj-dq-1255000172.iss.com
+42.201.64.133       blj-1255000198-jf.iss.com
+42.201.64.125       blj-1255000145-ynzw.iss.com
+103.126.126.82      szfc.gdszfc.com
+42.201.64.186      blj-1255000391.iss.com
+42.201.64.168       blj-1255000392.iss.com
+11.152.160.120	zh_srv1
+11.152.160.122	zh_srv2
+11.168.214.245	ccbft_srv1		mail1.fintech.jh
+11.168.214.246	ccbft_srv2		mail2.fintech.jh
+11.168.214.243	ccbft_qzsrv1	mailqz1.fintech.jh
+11.168.214.244	ccbft_qzsrv2	mailqz2.fintech.jh
+11.168.214.251	oa.fintech.jh
+11.168.214.252	au.fintech.jh
+11.168.214.254	gd.fintech.jh
+240e:604:106:2:5::201   wx.dangqun.ccb.com
+223.75.71.12  ynzgh.org.cn
+103.126.126.119    testlb1.ccb.com
+42.201.64.49   blj-1255000306.iss.com
+58.49.34.162   blj-1255000317.iss.com
+42.201.64.93   blj-1255000199.iss.com
+42.201.64.86   blj-1255000198.iss.com
+42.201.64.79   blj-1255000333.iss.com
+42.201.64.70   blj-1255000226.iss.com
+42.201.64.69   blj-1255000145.iss.com
+42.201.64.69   blj-1255000145-jz.iss.com
+42.201.64.87   blj-1255000145-1.iss.com
+42.201.64.75   blj-1255000362.iss.com
+42.201.64.79		blj-1255000333.iss.com			#大政务生态	
+42.201.64.69        blj-1255000145.iss.com	        #云南政务	
+42.201.64.87        blj-1255000145-1.iss.com        #云岭工会	
+42.201.64.86        blj-1255000198.iss.com	        #安康政务	
+42.201.64.93        blj-1255000199.iss.com	        #辽宁政务		
+42.201.64.70        blj-1255000226.iss.com	        #重庆积分	
+42.201.64.74        blj-1255000366.iss.com	        #广东房产	
+42.201.64.75        blj-1255000362.iss.com	        #河北房产	
+42.201.64.103       blj-1255000368.iss.com	        #消费扶贫	
+42.201.64.199       blj-1255000318.iss.com	        #渠道管控	
+42.201.64.105       blj-1255000279.iss.com	        #山东政务	
+42.201.64.112       blj-1255000244.iss.com	        #山西政务	
+42.201.64.230       blj-1255000408.iss.com	        #黄山政务	
+42.201.64.78        blj-1255000173.iss.com	        #安阳政务2.0
+42.201.64.78        blj-125500017301.iss.com        #安阳政务1.0
+42.201.64.95        blj-1255000200.iss.com	        #雄安政务	
+42.201.64.88        blj-1255000185.iss.com	        #银保监会	
+42.201.64.76        blj-1255000201.iss.com	        #北京政务	
+42.201.64.80        bli-1255000373.iss.com	        #工商联
+42.201.64.114       blj-1255000172-zrzf.iss.com     #政融支付
+42.201.65.224       blj-dq-1255000172.iss.com
+42.201.64.133       blj-1255000198-jf.iss.com
+42.201.64.125       blj-1255000145-ynzw.iss.com
+103.126.126.82      szfc.gdszfc.com
+42.201.64.186      blj-1255000391.iss.com
+42.201.64.168       blj-1255000392.iss.com
+42.201.64.133       blj-1255000198-jf.iss.com   安康积分
